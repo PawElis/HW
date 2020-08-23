@@ -1,19 +1,12 @@
 div {
-	background: #ADFF2F;
+	background: #8E6DD;
 }
 
-div>div {
-	
-}
-
-div:hover {
-	background: blue;
-}
 
 #task_head{
-	background: lightblue;
+	background: #AC66D5;
 }
 
 .answer{
-	background: lightblue;
+	background: #7277D8;
 }
