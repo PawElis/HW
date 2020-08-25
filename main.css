@@ -1,12 +1,39 @@
-div {
-	background: #8E6DD;
+body {
+	background: #C89EA7;
 }
 
+#main_head{
+	background: #030302;
 
-#task_head{
+	font-size: 200%; 
+
+	text-align: center;
+
+	color: #D4BECF;
+}
+
+.task_name{
+	background: #7277D8; 
+
+	text-align: center;
+
+	font-size: 110%; 
+
+	color: #D5B8BE;
+}
+
+.task_body{
 	background: #AC66D5;
 }
 
-.answer{
+.task_answer{
 	background: #7277D8;
+}
+
+.decision_1{
+	background: #CCB2B7
+}
+
+.decision_2{
+	background: #CCB2B7
 }
